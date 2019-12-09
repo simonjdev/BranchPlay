@@ -15,7 +15,7 @@
 
                 <script src="./Hacker Typer_files/script.js.download" type="text/javascript"></script>
                 <script type="text/javascript">
-                    Typer.speed = 3;
+                    Typer.speed = 4;
                     Typer.file = 'kernel.txt';
                     Typer.init();
 </script>
