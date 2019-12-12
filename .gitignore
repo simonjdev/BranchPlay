@@ -354,3 +354,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+#Kdiff3
+*.orig
