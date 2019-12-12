@@ -14,3 +14,8 @@ public static void feature2
 public static void feature3 {
 	
 }
+
+public static void feature4
+{
+
+}
